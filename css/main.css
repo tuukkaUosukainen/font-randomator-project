@@ -1,6 +1,25 @@
 body {
-  max-width: 800px;
+  max-width: 1024px;
   width: 100%;
   margin: 60px auto;
   font-size: 2em;
+  line-height: 1.4;
+  text-align: center;
+  background-color: #FFEACC;
+}
+
+h1, 
+h4 {
+  line-height: .8;
+  color: #002C4D;
+}
+
+p {
+  line-height: .6;
+}
+
+.underline {
+  padding: 0 20px;
+  display: inline-block;
+  border-bottom: 8px solid #FEA30A;
 }
