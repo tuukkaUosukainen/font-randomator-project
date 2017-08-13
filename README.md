@@ -1,5 +1,5 @@
 # font-randomator-project
-A simple app that fetches font array from Google Fonts Developer API and applies it to the page
+A simple app that fetches object of all Google Fonts and randomises a font on the page
 
 If you want to run project on your machine please add your personal api-key to randomator.js file line number 2
 
