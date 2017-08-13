@@ -14,3 +14,6 @@
   $("body").css('font-family', randomFontFamily);
 
   $('head').append(linkUrl);
+  $('body').append(
+    '<p class="">Your current font: ' + randomFontFamily + '</p>'
+  );
