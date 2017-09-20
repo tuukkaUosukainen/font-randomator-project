@@ -13,6 +13,6 @@ All comments and suggestions are welcome!
 
 TODO
 
-- Add a randomize button to change font without page reload
+- ~~Add a randomize button to change font without page reload~~
 - ~~Add timer so font changes every 3-5 seconds~~
 - Functionality to go back to previous font
